@@ -10,6 +10,12 @@
     <Title>Simple device manager</Title>
     <PackAsTool>False</PackAsTool>
     <PackageLicenseFile>licence.txt</PackageLicenseFile>
+    <PackageProjectUrl>https://www.nuget.org/packages/SimpleDeviceManager/</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/Tapiolavi/SimpleDeviceManager</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <AssemblyVersion></AssemblyVersion>
+    <FileVersion></FileVersion>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
   <ItemGroup>

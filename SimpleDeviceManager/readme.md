@@ -1,6 +1,13 @@
 ﻿# Simple device manager
 
-POC to fast prototyping.
+POC to fast prototyping to disable and enable devices.
+
+## Available drivers to handle devices 
+
+- DeviceDriverNetshService (uses netsh.exe)
+- DeviceDriverrWmiService (uses Windows Management Instrumentation Win32_NetworkAdapter in quering)
+- DeviceDriverSystemDeviceManager (uses Windows Management Instrumentation Win32_PnPEntity in quering)
+
 
 ## Usage
 
